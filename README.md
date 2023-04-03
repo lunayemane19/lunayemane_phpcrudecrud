@@ -2,6 +2,10 @@
 
 ## Demonstrates a basic Dynamic HTML Application using PHP
 
+##Dynamic Web Application I deployed for INET 4031
+
+##Luna Yemane
+
 It doesn't get much more crude than this, but is a great starting point for understanding how **dynamic data-driven web applications** work.
 
 Understand how this one works, and more modern/advanced/complex web development frameworks, won't seem so mysterious.
